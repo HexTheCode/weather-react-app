@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can visit the project deployed on [Weather React App](https://openweather-react-app.netlify.app/).
 
 ## Available Scripts
 
